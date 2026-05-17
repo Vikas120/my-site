@@ -1,6 +1,4 @@
-<script>
-
-	  const form =
+const form =
 		document.getElementById('whatsappForm');
 
 	  const emailInput =
@@ -129,4 +127,3 @@
 
 	  });
 
-	</script>
